@@ -7,7 +7,7 @@ Trabajo 1º trimestre Servidor Web - Asignatura Servicios de Red e Internet
 ## [Wordpress](https://github.com/laviro98/Servidor-Web/tree/main/Wordpress)
 - Instalación y configuración Wordpress
 - Dominio centro.intranet
-## [Python]()
+## [Python](https://github.com/laviro98/Servidor-Web/edit/main/Python/readme.md)
 - Instalación y configuración Python
 - Dominio departamentos.centro.intranet
 - Proteger acceso autenticación
