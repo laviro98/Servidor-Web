@@ -68,4 +68,3 @@ Añadimos lo siguiente, donde viene la información del dominio:
 ```
 
 Para que funcione, el dominio debe estar dentro del fichero `/etc/hosts`, lo que ya hemos hecho anteriormente.
-
