@@ -32,6 +32,10 @@ sudo nano /etc/hosts
 ```
 ![image](https://user-images.githubusercontent.com/114391559/204745548-d7efd69e-f3fe-4f50-a9e7-a3a3ec4718ce.png)
 
+Abrimos el navegador y escribimos en la barra de búsqueda la siguiente url `http://centro.intranet`. 
+Debería salir así:
+
+![image](https://user-images.githubusercontent.com/114391559/204746397-85d41dbd-13fd-4cc4-9a84-257706edba84.png)
 
 
 
