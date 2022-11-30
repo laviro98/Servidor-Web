@@ -11,7 +11,7 @@ Se trata del CMS más popular del mercado, ya que lo utilizan el 65,2% de los si
 - Es una plataforma escalable: WordPress puede manejar sitios web de cualquier tamaño siempre que el plan de CMS hosting tenga los recursos necesarios. No hay necesidad de migrar a una plataforma diferente una vez que el sitio web comience a crecer.
 - Es relativamente fácil de usar: en comparación con la programación manual de un sitio web desde cero, WordPress requiere muchos menos conocimientos técnicos. Aunque se puede modificar el código, es posible crear sitios web bonitos y totalmente funcionales sólo a través de la interfaz gráfica de usuario.
 
-##Instalación Wordpress
+## Instalación Wordpress
 Descargamos el paquete de instalación y lo descomprimimos en la siguiente ruta:
 ```
 wget https://es.wordpress.org/latest-es_ES.tar.gz
@@ -23,4 +23,20 @@ sudo chown -R www-data:www-data /var/www/html/wordpress/
 ```
 
 > Nota: FTP es un protocolo que se utiliza para transferir todo tipo de archivos entre equipos conectados a una red.
+
+## Dominio centro.intranet
+Para asignar el dominio, tenemos que darle como IP la misma que el host, en este caso, 127.0.0.1:
+
+```
+sudo nano /etc/hosts
+```
+![image](https://user-images.githubusercontent.com/114391559/204745262-1f7bdcff-ce4b-47e5-a6af-91fc3fc41b06.png)
+
+
+
+
+
+
+
+
 
