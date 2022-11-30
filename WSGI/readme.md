@@ -47,6 +47,32 @@ sudo chown www-data:www-data /var/www/html/test.py
 sudo chmod 775 /var/www/html/test.py
 ```
 
+## Establecemos el dominio con el que se va a comunicar:
+
+Entramos en el archivo de configuración `000-default.conf`.
+
+```
+sudo nano /etc/apache2/sites-available/000-default.conf
+```
+Añadimos lo siguiente, donde viene la información del dominio:
+```
+<VirtualHost *:80>
+        ServerName departamentos.centro.intranet
+        ServerAlias www.departamentos.centro.intranet
+        ServerAdmin webmaster@localhost
+        DocumentRoot /var/www/html
+        ErrorLog ${APACHE_LOG_DIR}/error.log
+        CustomLog ${APACHE_LOG_DIR}/access.log combined
+        WSGIScriptAlias /test /var/www/html/test.py  
+</VirtualHost>
+```
+
+
+
+
+
+
+
 
 
 
