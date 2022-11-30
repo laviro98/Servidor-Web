@@ -2,19 +2,19 @@
 Trabajo 1º trimestre Servidor Web - Asignatura Servicios de Red e Internet
 
 # CONTENIDO
-## [Apache](https://github.com/laviro98/Servidor-Web/blob/main/Apache/README.md)
+## [Apache](APACHE/readme.md)
 - Instalación servidor web Apache
-## [Wordpress](https://github.com/laviro98/Servidor-Web/tree/main/Wordpress)
+## [Wordpress](WORDPRESS/readme.md)
 - Instalación y configuración Wordpress
 - Dominio centro.intranet
-## [Python](https://github.com/laviro98/Servidor-Web/edit/main/Python/readme.md)
+## [Python](PYTHON/readme.md)
 - Instalación y configuración Python
 - Dominio departamentos.centro.intranet
 - Proteger acceso autenticación
-## [MySQL]()
+## [MySQL](MYSQL/readme.md)
 - Instalación MySQL
 - Módulos de acceso
-## [Módulo WSGI]()
-## [Configuración AWSTAT]()
-## [Nginx]()
+## [Módulo WSGI](WSGI/readme.md)
+## [Configuración AWSTAT](AWSTAT/readme.md)
+## [Nginx](NGINX/readme.md)
 - Segundo servidor en Nginx servidor2.centro.intranet
