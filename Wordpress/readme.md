@@ -30,7 +30,8 @@ Para asignar el dominio, tenemos que darle como IP la misma que el host, en este
 ```
 sudo nano /etc/hosts
 ```
-![image](https://user-images.githubusercontent.com/114391559/204745262-1f7bdcff-ce4b-47e5-a6af-91fc3fc41b06.png)
+![image](https://user-images.githubusercontent.com/114391559/204745548-d7efd69e-f3fe-4f50-a9e7-a3a3ec4718ce.png)
+
 
 
 
