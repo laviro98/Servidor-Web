@@ -3,18 +3,18 @@ Trabajo 1º trimestre Servidor Web - Asignatura Servicios de Red e Internet
 
 # CONTENIDO
 ## Apache
-Instalación servidor web Apache
+- Instalación servidor web Apache
 ## Wordpress
-Instalación y configuración Wordpress
-Dominio centro.intranet
+- Instalación y configuración Wordpress
+- Dominio centro.intranet
 ## Python
-Instalación y configuración Python
-Dominio departamentos.centro.intranet
-Proteger acceso autenticación
+- Instalación y configuración Python
+- Dominio departamentos.centro.intranet
+- Proteger acceso autenticación
 ## MySQL
-Instalación MySQL
-Módulos de acceso
+- Instalación MySQL
+- Módulos de acceso
 ## Módulo WSGI
 ## Configuración AWSTAT
 ## Nginx
-Segundo servidor en Nginx servidor2.centro.intranet
+- Segundo servidor en Nginx servidor2.centro.intranet
