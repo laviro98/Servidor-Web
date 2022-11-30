@@ -59,10 +59,5 @@ Añadimos el siguiente archivo de configuración:
 Abrimos el navegador y entramos en la url `http://departamentos.centro.intranet` para comprobar si nos pide autenticación. 
 Debería salir así:
 
-![image](https://user-images.githubusercontent.com/114391559/204757370-5f3cda75-861b-4044-988c-478ecb81862d.png)
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/114391559/204757792-e78f0346-5a51-454b-b172-2ea5429a10f1.png)
 
