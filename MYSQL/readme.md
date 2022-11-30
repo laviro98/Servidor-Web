@@ -24,5 +24,28 @@ Comprobamos que se puede acceder:
 ```
 sudo mysql
 ```
+![image](https://user-images.githubusercontent.com/114391559/204761807-f7fa667e-862b-4e2a-8f2c-652677e52f37.png)
 
 ## Módulos de acceso
+
+Para activar los módulos necesarios de ejecución de php y mysql, ejecutamos el siguiente comando:
+```
+sudo apt install php libapache2-mod-php php-mysql
+```
+Comprobamos la versión:
+```
+php -v
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
