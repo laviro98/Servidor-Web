@@ -47,7 +47,7 @@ sudo chown www-data:www-data /var/www/html/test.py
 sudo chmod 775 /var/www/html/test.py
 ```
 
-## Establecemos el dominio con el que se va a comunicar:
+## Establecemos el dominio con el que se va a comunicar (a través de Python):
 
 Entramos en el archivo de configuración `000-default.conf`.
 
