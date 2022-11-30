@@ -15,6 +15,6 @@ Trabajo 1º trimestre Servidor Web - Asignatura Servicios de Red e Internet
 - Instalación MySQL
 - Módulos de acceso
 ## [Módulo WSGI](WSGI/readme.md)
-## [Configuración AWSTAT](AWSTAT/readme.md)
+## [Configuración AWSTATS](AWSTATS/readme.md)
 ## [Nginx](NGINX/readme.md)
 - Segundo servidor en Nginx servidor2.centro.intranet
