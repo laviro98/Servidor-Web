@@ -19,7 +19,10 @@ Apache tiene una estructura basada en módulos, que permite activar y desactivar
 
 ## Instalación Apache
 
+Hacemos primero una actualización para poder hacer futuras instalaciones.
+Luego, ejecutamos el comando de instalación:
 ```
 sudo apt update
 sudo apt install apache2
 ```
+
