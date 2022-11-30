@@ -4,7 +4,7 @@ Trabajo 1º trimestre Servidor Web - Asignatura Servicios de Red e Internet
 # CONTENIDO
 ## [Apache](https://github.com/laviro98/Servidor-Web/blob/main/Apache/README.md)
 - Instalación servidor web Apache
-## [Wordpress]()
+## [Wordpress](https://github.com/laviro98/Servidor-Web/tree/main/Wordpress)
 - Instalación y configuración Wordpress
 - Dominio centro.intranet
 ## [Python]()
