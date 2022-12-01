@@ -37,6 +37,7 @@ sudo nano /etc/hosts
 
 Para poder proteger el acceso, debemos entrar en el fichero `.htpasswd`.
 > .htpasswd es un modelo de tabla usado para almacenar nombres de usuarios y contraseñas para una autenticación de acceso básica en un servidor HTTP Apache.
+
 Debemos poner el nombre de usuario que queramos al final del comando. Luego, nos pregunta por la contraseña que queremos que tenga.
 ```
 sudo htpasswd -c /etc/apache2/.htpasswd lara
