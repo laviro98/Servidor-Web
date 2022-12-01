@@ -43,7 +43,7 @@ Lo movemos hasta la carpeta contenedor:
  sudo mv phpMyAdmin-5.2.0-all-languages /var/www/phpmyadmin
  ```
 
-Movemos nuestra plantilla de configuración cambiandole el nombre a `config.inc.php`.
+Movemos nuestra plantilla de configuración cambiándole el nombre a `config.inc.php`.
 ```
 sudo mv /var/www/phpmyadmin/config.sample.inc.php /var/www/phpmyadmin/config.inc.php
 ```
