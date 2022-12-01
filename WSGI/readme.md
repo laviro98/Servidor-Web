@@ -54,7 +54,7 @@ Entramos en el archivo de configuración `000-default.conf`.
 ```
 sudo nano /etc/apache2/sites-available/000-default.conf
 ```
-Añadimos lo siguiente, donde viene la información del dominio:
+Añadimos lo siguiente donde viene la información del dominio:
 ```
 <VirtualHost *:80>
         ServerName departamentos.centro.intranet
