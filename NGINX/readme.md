@@ -56,7 +56,7 @@ Procedemos con la configuración, para ello debemos tener una clave Blowfish(cla
 
 Instalamos el comando:
 ```
-sudo aot-get install pwgen
+sudo apt-get install pwgen
 ```
 
 La sintaxis del comando `pwgen` es `pwgen [opcion] [tamaño de la contraseña] [número de contraseñas]`. 
